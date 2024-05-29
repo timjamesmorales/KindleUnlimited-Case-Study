@@ -70,7 +70,10 @@ Books per Seller:
 Much higher diversity of sellers for Non-Kindle Unlimited books.
 
 Books per Star Review:
-img
+
+![img](https://github.com/timjamesmorales/KindleUnlimited-Case-Study/blob/main/Charts/True/Books%20per%20Star%20Review.png) ![img](https://github.com/timjamesmorales/KindleUnlimited-Case-Study/blob/main/Charts/False/Books%20per%20Star%20Review.png)
+
+Higher average rating of Non-Kindle Unlimited books.
 
 Books per Price Range:
 img
