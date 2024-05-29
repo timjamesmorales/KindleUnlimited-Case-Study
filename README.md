@@ -10,3 +10,4 @@ For this project, I will assume the role of a data analyst working on Amazon's o
 My task is to analyze Kindle Unlimited eBook data in order to identify trends that show how Kindle Unlimited books perform compared to non-Kindle Unlimited eBooks. To do so, I will analyze publically available web-scraped data using Google Sheets, and create pivot tables and charts to showcase my findings. In addition, I will create a Slideshow presentation to present my findings and offer recommendations to the executive team. 
 
 ## Data Source
+My analysis will be conducted on 130k rows of publically available web-scraped data from Amazon. The data can be downloaded from [here](https://www.kaggle.com/datasets/asaniczka/amazon-kindle-books-dataset-2023-130k-books) and has been made publically available through this [license](https://opendatacommons.org/licenses/by/1-0/index.html).
