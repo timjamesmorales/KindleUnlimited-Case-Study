@@ -58,7 +58,10 @@ GoodReads' Choice:
 Higher percent of Non-Kindle Unlimited books are on the GoodReads’ Choice List.
 
 Editors' Pick:
-img
+
+![img](https://github.com/timjamesmorales/KindleUnlimited-Case-Study/blob/main/Charts/True/Editors'%20Picks.png) ![img](https://github.com/timjamesmorales/KindleUnlimited-Case-Study/blob/main/Charts/False/Editors'%20Pick.png)
+
+Higher percent of Non-Kindle Unlimited books are on the Editors’ Pick List.
 
 Books per Seller:
 img
