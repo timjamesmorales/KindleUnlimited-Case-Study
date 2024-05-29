@@ -64,7 +64,10 @@ Editors' Pick:
 Higher percent of Non-Kindle Unlimited books are on the Editors’ Pick List.
 
 Books per Seller:
-img
+
+![img](https://github.com/timjamesmorales/KindleUnlimited-Case-Study/blob/main/Charts/True/Books%20per%20Seller.png) ![img](https://github.com/timjamesmorales/KindleUnlimited-Case-Study/blob/main/Charts/False/Books%20per%20Seller.png)
+
+Much higher diversity of sellers for Non-Kindle Unlimited books.
 
 Books per Star Review:
 img
