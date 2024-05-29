@@ -82,7 +82,10 @@ Books per Price Range:
 Much higher diversity of price ranges for Non-Kindle Unlimited books.
 
 Books per Category:
-img
+
+![img](https://github.com/timjamesmorales/KindleUnlimited-Case-Study/blob/main/Charts/True/Books%20per%20Category.png) ![img](https://github.com/timjamesmorales/KindleUnlimited-Case-Study/blob/main/Charts/False/Books%20per%20Category.png)
+
+More fiction books are in Kindle Unlimited vs. more non-fiction and educational books in Non-Kindle Unlimited.
 
 ## Action
 ### Summary
