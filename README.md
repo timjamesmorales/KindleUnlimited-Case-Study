@@ -88,8 +88,11 @@ Books per Category:
 More fiction books are in Kindle Unlimited vs. more non-fiction and educational books in Non-Kindle Unlimited.
 
 ## Action
+### Summary
+Several conclusions can be observed when looking at the data as a whole. More Non-Kindle Unlimited books end up on Editors' Picks and GoodReads' Choice lists, though there are fewer Best-Sellers. There is a higher diversity of sellers and price ranges for Non-Kindle Unlimited books. Generally, Kindle Unlimited books tend to be fiction, and Non-Kindle Unlimited books tend to be non-fiction.
+
 ### Recommendations
-Several recommendations can be considered based on the findings gathered from the data:
+Some recommendations to be considered based on the findings gathered from the data:
 
 1. Add more Educational books, Biographies & Memoirs, and Children's eBooks to the Kindle Unlimited Program.
 2. Add more Random House, Penguin House, and Hachette Book Group books to the Kindle Unlimited program.
