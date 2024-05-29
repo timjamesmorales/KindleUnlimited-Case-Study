@@ -43,6 +43,8 @@ Each observation is determined by creating pivot tables of the relevant data, wi
 
 Link to the [Slideshow presentation](https://docs.google.com/presentation/d/1MQkG3GU-Al9k34dG4_ui9nWhajQVS4rG5XCsUS0B38I/edit#slide=id.p) of findings.
 
+Kindle Unlimited (left) vs. Non-Kindle Unlimited (right)
+
 Best-Sellers:
 
 ![img](https://github.com/timjamesmorales/KindleUnlimited-Case-Study/blob/main/Charts/True/Best%20Sellers.png) ![img](https://github.com/timjamesmorales/KindleUnlimited-Case-Study/blob/main/Charts/False/Best%20Sellers.png)
