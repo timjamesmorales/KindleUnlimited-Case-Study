@@ -43,7 +43,7 @@ Each observation is determined by creating pivot tables of the relevant data, wi
 
 Link to the [Slideshow presentation](https://docs.google.com/presentation/d/1MQkG3GU-Al9k34dG4_ui9nWhajQVS4rG5XCsUS0B38I/edit#slide=id.p) of findings.
 
-Kindle Unlimited (left/top) vs. Non-Kindle Unlimited (right/bottom)
+Kindle Unlimited (top) vs. Non-Kindle Unlimited (bottom)
 
 Best-Sellers:
 
