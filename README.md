@@ -21,7 +21,7 @@ SQL will be used for the initial organization of the dataset, due to the large a
 
 ### Uploading Data
 
-SQL Code: Uploading Data
+[SQL Code: Uploading Data](https://github.com/timjamesmorales/KindleUnlimited-Case-Study/blob/main/SQL%20Code.sql)
 
 The original data CSV file is uploaded as a table to the 'mydata-408300.amazon_kindle_unlimited_data' dataset. Then, 3 new tables are created, each containing the String, Numerical, or Boolean data of the original table. Each table is created with the 'asin' column so that VLOOKUP can join them later on.
 
