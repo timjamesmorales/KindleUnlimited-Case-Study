@@ -15,6 +15,6 @@ My analysis will be conducted on 130k rows of publically available web-scraped d
 All personally identifiably information has been removed from the dataset. The data includes 1 CSV file of long format data. The file consists of 16 columns: asin, title, author, soldBy, imgUrl, productURL, stars, reviews, price, category_id, category_name, publishedDate, isKindleUnlimited, isBestSeller, isEditorsPick, isGoodReadsChoice.
 
 ## Process
-SQL will be used for the initial organization of the dataset, due to the large amount of raw data in the original dataset. 130k rows heavily bogs down the processing time of Sheets, so BigQuery will be used to separate the data into 3 distinct datasets based on the data they contain: String data, Numerical data, and Boolean data. These smaller datasets will be more easily cleaned by Sheets, and then Sheets will be used for data analysis and visualization.
+SQL will be used for the initial organization of the dataset, due to the large amount of raw data in the original dataset. 130k rows heavily bogs down the processing time of Sheets, so BigQuery will be used to separate the data into 3 distinct datasets based on the type of data they contain: String data, Numerical data, and Boolean data. These smaller datasets will be more easily cleaned by Sheets, and then Sheets will be used for data analysis and visualization.
 
 ### Uploading Data
