@@ -46,6 +46,7 @@ Link to the [Slideshow presentation](https://docs.google.com/presentation/d/1MQk
 Best-Sellers: Kindle Unlimited vs. Non-Kindle Unlimited
 
 ![img](https://github.com/timjamesmorales/KindleUnlimited-Case-Study/blob/main/Charts/True/Best%20Sellers.png) ![img](https://github.com/timjamesmorales/KindleUnlimited-Case-Study/blob/main/Charts/False/Best%20Sellers.png)
+
 Higher percent of Kindle Unlimited books are on the Best-Seller List.
 
 GoodReads' Choice:
