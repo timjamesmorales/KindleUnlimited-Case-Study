@@ -76,7 +76,10 @@ Books per Star Review:
 Higher average rating of Non-Kindle Unlimited books.
 
 Books per Price Range:
-img
+
+![img](https://github.com/timjamesmorales/KindleUnlimited-Case-Study/blob/main/Charts/True/Books%20per%20%2410%20Price%20Range.png) ![img](https://github.com/timjamesmorales/KindleUnlimited-Case-Study/blob/main/Charts/False/Books%20per%20%2410%20Price%20Range.png)
+
+Much higher diversity of price ranges for Non-Kindle Unlimited books.
 
 Books per Category:
 img
