@@ -35,10 +35,36 @@ A new combined sheet is then populated with the values of the 3 foundational she
 
 In order to generate useful insights, several analyses are performed on the two true/false isKindleUnlimited sheets. The following insights are gleaned during this phase:
 
-Number of Kindle Unlimited vs. Non-Kindle Unlimited books ; Number of Kindle Unlimited vs. Non-Kindle Unlimited books on Best-Seller List ; Number of Kindle Unlimited vs. Non-Kindle Unlimited books on Editors' Pick List ; Number of Kindle Unlimited vs. Non-Kindle Unlimited books on GoodReads' Choice List ; Number of Kindle Unlimited vs. Non-Kindle Unlimited books per Seller ; Number of Kindle Unlimited vs. Non-Kindle Unlimited books per Star Rating ; Number of Kindle Unlimited vs. Non-Kindle Unlimited books per Price Range ; Number of Kindle Unlimited vs. Non-Kindle Unlimited books per Category
+Number of Kindle Unlimited vs. Non-Kindle Unlimited books ; Number of Kindle Unlimited vs. Non-Kindle Unlimited books on Best-Seller List ; Number of Kindle Unlimited vs. Non-Kindle Unlimited books on GoodReads' Choice List ; Number of Kindle Unlimited vs. Non-Kindle Unlimited books on Editors' Pick List ; Number of Kindle Unlimited vs. Non-Kindle Unlimited books per Seller ; Number of Kindle Unlimited vs. Non-Kindle Unlimited books per Star Rating ; Number of Kindle Unlimited vs. Non-Kindle Unlimited books per Price Range ; Number of Kindle Unlimited vs. Non-Kindle Unlimited books per Category
 
 Each observation is determined by creating pivot tables of the relevant data, with charts visually representing the data. Here is a link to the complete [workbook](https://docs.google.com/spreadsheets/d/1-BoarkN6yOXqApOdRcb0r-6XRjsFDch6IeoL0WBExQs/edit#gid=1459172057).
 
 ## Visualize and Share
 
 Link to the [Slideshow presentation](https://docs.google.com/presentation/d/1MQkG3GU-Al9k34dG4_ui9nWhajQVS4rG5XCsUS0B38I/edit#slide=id.p) of findings.
+
+Best-Sellers:
+img
+
+GoodReads' Choice:
+img
+
+Editors' Pick:
+img
+
+Books per Seller:
+img
+
+Books per Star Review:
+img
+
+Books per Price Range:
+img
+
+Books per Category:
+img
+
+## Action
+### Summary
+
+### Recommendations
