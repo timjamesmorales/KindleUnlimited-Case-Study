@@ -45,7 +45,7 @@ Link to the [Slideshow presentation](https://docs.google.com/presentation/d/1MQk
 
 Best-Sellers:
 
-![img](https://github.com/timjamesmorales/KindleUnlimited-Case-Study/blob/main/Charts/True/Best%20Sellers.png)
+![img](https://github.com/timjamesmorales/KindleUnlimited-Case-Study/blob/main/Charts/True/Best%20Sellers.png) ![img](https://github.com/timjamesmorales/KindleUnlimited-Case-Study/blob/main/Charts/False/Best%20Sellers.png)
 
 GoodReads' Choice:
 img
