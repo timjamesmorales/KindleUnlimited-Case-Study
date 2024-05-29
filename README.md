@@ -88,6 +88,13 @@ Books per Category:
 More fiction books are in Kindle Unlimited vs. more non-fiction and educational books in Non-Kindle Unlimited.
 
 ## Action
-### Summary
-
 ### Recommendations
+Several recommendations can be considered based on the findings gathered from the data:
+
+1. Add more Educational books, Biographies & Memoirs, and Children's eBooks to the Kindle Unlimited Program.
+2. Add more Random House, Penguin House, and Hachette Book Group books to the Kindle Unlimited program.
+3. Add more of the Non-Kindle Unlimited Editors’ Pick and GoodReads’ Choice books to the Kindle Unlimited program.
+4. Add more $10-$20 price range books to the Kindle Unlimited Program.
+5. Gather more data on publishing dates and review counts for books across the board.
+
+Through the implementation of these recommendations, Amazon can successfully expand the Kindle Unlimited program and improve the sales of Amazon eBooks. 
